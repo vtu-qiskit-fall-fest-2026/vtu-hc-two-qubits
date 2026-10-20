@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Two Qubits** · Team ID `VTU-QFF-HC-0121` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Two Qubits)
+[⬆ Back to Top](#two-qubits)
 
 </div>
